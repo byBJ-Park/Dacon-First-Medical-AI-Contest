@@ -1,5 +1,5 @@
 # Dacon-First-Medical-AI-Contest
-[![image](https://github.com/user-attachments/assets/d650005e-db27-45cf-9dda-9e1478aeaf24)]([https://dacon.io/competitions/official/236295/overview/description/])
+[![image](https://github.com/user-attachments/assets/d650005e-db27-45cf-9dda-9e1478aeaf24)](https://dacon.io/competitions/official/236382/overview/description)
 
 Public score: 27/273(PCC: 0.54057)  
 Private score: 90/273(PCC: 0.52843)  
